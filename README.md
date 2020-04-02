@@ -1,7 +1,7 @@
 #  Quickstart:
 ---
 
- Firstly, open Extracted project in respective IDE i'm using PyCharm then go to ```DjangoYTD``` folder and run below command in cmd/terminal to download the dependencies.
+ Firstly, open Extracted project in respective IDE i'm using PyCharm then run below command in cmd/terminal to download the dependencies.
 
 ---
 
